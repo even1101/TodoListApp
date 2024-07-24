@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8 (swiftlang-5.8.0.124.2 clang-1403.0.22.11.100)"
+options: "41d6955137bcba286b66173a1c3f1f6316a18979cfbe5cb06ff7ab61b5c098c3"
+build_start_time: [1721811623, 961979000]
+build_end_time: [1721811624, 275000]
+inputs:
+  "/Users/even/Desktop/code/flutter/TodoListApp/todolistapp/macos/Flutter/GeneratedPluginRegistrant.swift": !private [1721811612, 709280428]
+  "/Users/even/Desktop/code/flutter/TodoListApp/todolistapp/macos/Runner/AppDelegate.swift": !private [1675736930, 110923540]
+  "/Users/even/Desktop/code/flutter/TodoListApp/todolistapp/macos/Runner/MainFlutterWindow.swift": !private [1675736930, 111990764]
